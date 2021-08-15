@@ -7,4 +7,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 
-<image src="https://github-readme-stats.vercel.app/api?username=cisseAB&&show_icons=true&title_color=ffffff&icon_color=006d5b&text_color=ffffff&bg_color=03c0c1">
+<image src="https://github-readme-stats.vercel.app/api?username=cisseAB&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=006d5b&bg_color=5dc9b6">
